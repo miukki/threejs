@@ -1,0 +1,21 @@
+{
+  "name": "threejs-workshop",
+  "homepage": "https://github.com/codersfield/threejs-workshop",
+  "authors": [
+    "Anja Ishmukhametova <miukki@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}
